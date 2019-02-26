@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 It was 24 years since the last group of survivors left the old city because of the invation.
+=======
+It was 24 years since the last group of survivors left the old city, because of the invation.
+
+>>>>>>> alien-plot
